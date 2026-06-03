@@ -1,10 +1,9 @@
-<div align="center">
-
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Pham%20Huynh%20Khanh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Fullstack%20Developer%20%7C%20Building%20Scalable%20Distributed%20Systems&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+Microservices;%F0%9F%9A%80+Kafka+%7C+Redis+%7C+Elasticsearch+%7C+MongoDB;%F0%9F%8F%97%EF%B8%8F+8%2B+Years+Architecting+Fullstack+Systems)](https://github.com/phamhuynhkhanhsecure-ship-it)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+Microservices;%F0%9F%9A%80+Kafka+%7C+Redis+%7C+Elasticsearch+%7C+MongoDB;%F0%9F%8F%97%EF%B8%8F+8%2B+Years+Architecting+Fullstack+Systems)](https://github.com/phamhuynhkhanhsecure-ship-it)
 
 </div>
 
