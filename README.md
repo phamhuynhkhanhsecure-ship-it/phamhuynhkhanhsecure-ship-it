@@ -65,30 +65,7 @@ fun_fact: "I build systems that handle millions of events, then journal my trade
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhuynhkhanhsecure-ship-it&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamhuynhkhanhsecure-ship-it&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamhuynhkhanhsecure-ship-it&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=phamhuynhkhanhsecure-ship-it&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
----
-
 ## 🚀 Featured Project
-
-<div align="center">
-  <a href="https://github.com/phamhuynhkhanhsecure-ship-it/trading-journal">
-    <img src="https://github-contributor-stats.vercel.app/api?username=phamhuynhkhanhsecure-ship-it&limit=1&theme=dark&combine_all_yearly_contributions=true" />
-  </a>
-</div>
 
 ### 📈 Trading Journal — Trading Performance & Psychology Ecosystem
 
