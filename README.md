@@ -68,14 +68,12 @@ fun_fact: "I build systems that handle millions of events, then journal my trade
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phamhuynhkhanh.vercel.app/api?username=phamhuynhkhanhsecure-ship-it&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamhuynhkhanhsecure-ship-it&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phamhuynhkhanh.vercel.app/api/top-langs/?username=phamhuynhkhanhsecure-ship-it&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhuynhkhanhsecure-ship-it&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhuynhkhanhsecure-ship-it&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamhuynhkhanhsecure-ship-it&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamhuynhkhanhsecure-ship-it&theme=github_dark" />
 </div>
 
 <div align="center">
@@ -87,14 +85,9 @@ fun_fact: "I build systems that handle millions of events, then journal my trade
 ## 🚀 Featured Project
 
 <div align="center">
-
-<a href="https://github.com/phamhuynhkhanhsecure-ship-it/trading-journal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phamhuynhkhanh.vercel.app/api/pin/?username=phamhuynhkhanhsecure-ship-it&repo=trading-journal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamhuynhkhanhsecure-ship-it&repo=trading-journal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </picture>
-</a>
-
+  <a href="https://github.com/phamhuynhkhanhsecure-ship-it/trading-journal">
+    <img src="https://github-contributor-stats.vercel.app/api?username=phamhuynhkhanhsecure-ship-it&limit=1&theme=dark&combine_all_yearly_contributions=true" />
+  </a>
 </div>
 
 ### 📈 Trading Journal — Trading Performance & Psychology Ecosystem
